@@ -1,2 +1,7 @@
 # Hack-A-Thon
-Hackathon workspace
+WSP Manchester Hackathon workspace
+Contributors
+Jack Atherton
+Steve Burrows
+Jonathan Craigmile
+Will Hastie
